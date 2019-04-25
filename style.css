@@ -1,0 +1,14 @@
+body{
+   background-image: url("assets/money-background-images-1.jpg")
+}
+h1{
+    color: white; 
+}
+#inner {
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 10%;
+    background-color: black;
+    border-radius: 10px;
+    padding: 20px;
+  }
